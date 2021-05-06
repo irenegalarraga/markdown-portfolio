@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**MY FAMILY**
+
+*My mum, my dad, my two brothers and me*
+
+__MY FRIENDS__
+
+_In our group of friends we are 10_
