@@ -4,6 +4,6 @@ Replace this with your name, and include a header.
   # <h3> Play music
   # <h3> Practic sports
   # <h3> Dance Basque dances
- #<h2> STUDIES
+ # <h2> STUDIES
   # <h3> Communication
   
