@@ -1,5 +1,5 @@
--Aizkorri
--Arno
--Urbia
--Anboto
--Adarra
+- Aizkorri
+- Arno
+- Urbia
+- Anboto
+- Adarra
